@@ -17,7 +17,7 @@ function showSlide(index) {
 function moveSlides(step) {
     showSlide(slideIndex + step);
 }
-
+// a modifier ptet
 window.onload = function() {
     // Récupère l'image dont on veut ajuster la marge
     const imageElement = document.querySelector('img'); // Modifier le sélecteur selon le bon élément
