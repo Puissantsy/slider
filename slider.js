@@ -41,4 +41,4 @@ window.onload = function() {
 // Auto slide functionality (optional)
 setInterval(() => {
     moveSlides(1);
-}, 3000); // 1000 = 1s 
+}, 7500); // 1000 = 1s 
